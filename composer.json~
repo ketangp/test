@@ -1,10 +1,7 @@
 {
-    "authors": [
-        {
-            "name": "ketan",
-            "email": "test@test.com",
-            "homepage": "http://www.example.com",
-            "role": "Developer"
-        }
-    ]
+    "name": "ketangp/test",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": ">=5.3.0"
+    }
 }
